@@ -92,7 +92,7 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
+        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Why????'>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
@@ -113,11 +113,11 @@ $('#yes').click(function() {
                 width: 900,
                 confirmButtonText: 'Okee luônnn <3',
                 background: '#fff url("img/iput-bg.jpg")',
-                title: 'Tớ biết mà ^^ Yêu cậu 3000 :33',
-                text: "Cuối tuần tớ qua đón cậu đi chơi nhaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoooooo",
+                title: 'Tớ biết mà ^^',
+                text: "Cuối tuần tớ qua đón cậu đi chơi nhaaa :v Còn giờ thì inbox cho tớ đêêêêê :3",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://fb.com';
+                    window.location = 'https://www.facebook.com/messages/t/dvh.sk';
                   }
             })
         }
