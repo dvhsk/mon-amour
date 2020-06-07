@@ -114,7 +114,7 @@ $('#yes').click(function() {
                 confirmButtonText: 'Okee luônnn <3',
                 background: '#fff url("img/iput-bg.jpg")',
                 title: 'Tớ biết mà ^^',
-                text: "Cuối tuần tớ qua đón cậu đi chơi nhaaa :v Còn giờ thì inbox cho tớ đêêêêê :3",
+                text: "Khi nào giảm được 5kg tớ sang đón cậu đi chơi nhá :v Giờ thì inbox cho tớ đêêêêê :3",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.facebook.com/messages/t/dvh.sk';
